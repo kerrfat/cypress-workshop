@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cypress-io/cypress-workshop-ci-example.git"
+    "url": "git+https://github.com/bahmutov/cypress-workshop-ci-example.git"
   },
   "keywords": [
     "cypress-example",
@@ -20,12 +20,12 @@
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cypress-io/cypress-workshop-ci-example/issues"
+    "url": "https://github.com/bahmutov/cypress-workshop-ci-example/issues"
   },
-  "homepage": "https://github.com/cypress-io/cypress-workshop-ci-example#readme",
+  "homepage": "https://github.com/bahmutov/cypress-workshop-ci-example#readme",
   "devDependencies": {
     "@11ty/eleventy": "0.11.1",
-    "cypress": "6.7.1",
+    "cypress": "9.1.0",
     "prettier": "2.2.1"
   }
 }
