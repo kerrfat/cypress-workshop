@@ -2,5 +2,7 @@
   "fixturesFolder": false,
   "supportFile": false,
   "pluginsFile": false,
-  "baseUrl": "http://localhost:8080"
+  "baseUrl": "http://localhost:8080",
+  "config.defaultCommandTimeout" :60000
+
 }
